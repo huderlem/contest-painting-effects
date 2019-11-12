@@ -6,6 +6,8 @@ Examples:
 
 ![Charizard](charizard-example.png) ![Arcanine](arcanine-example.png)
 
+The full dump of all possible Pokémon Contest Painting images can be downloaded here: https://www.mediafire.com/file/y59hxgd4thtk6z3/contest-painting-pokemon.zip/file
+
 A full working example of using this library is found below. It processes the given image with the "Smart Contest" effect.
 
 ```go
