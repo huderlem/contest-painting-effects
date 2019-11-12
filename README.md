@@ -1,6 +1,6 @@
 # Contest Painting Effects
 
-This is an image processing library, written in Go, that perfectly recreates the Pokémon Contest painting effects found in Pokémon Emerald, Ruby, and Sapphire. The code is directly ported from the [pokeemerald](https://github.com/pret/pokeemerald/blob/master/src/image_processing_effects.c) project.
+This is a Go image processing library that perfectly recreates the Pokémon Contest painting effects found in Pokémon Emerald, Ruby, and Sapphire. The code is directly ported from the [pokeemerald](https://github.com/pret/pokeemerald/blob/master/src/image_processing_effects.c) project.
 
 Examples:
 
