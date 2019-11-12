@@ -2,6 +2,10 @@
 
 This is an image processing library that perfectly recreates the Pokémon Contest painting effects found in Pokémon Emerald, Ruby, and Sapphire. The code is directly ported from the [pokeemerald](https://github.com/pret/pokeemerald/blob/master/src/image_processing_effects.c) project.
 
+Examples:
+
+![Charizard](charizard-example.png) ![Arcanine](arcanine-example.png)
+
 A full working example of using this library is found below. It processes the given image with the "Smart Contest" effect.
 
 ```go
